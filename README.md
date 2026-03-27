@@ -38,3 +38,9 @@ Section 08 - Stream Processing with Apache Flink
 19 lectures
 
 Where To Go From Here?
+
+
+
+<br/>
+
+![Bootcamp Plan](/img/chapter00-pic01.png)
